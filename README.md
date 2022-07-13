@@ -1,5 +1,11 @@
-### The [RoboSnake] - A system for transporting pipes
-Developed as part of a final project (1402) in mechanical engineering and mechatronics studies at Ariel University.
+# The [RoboSnake] - A system for transporting pipes
+## The system's developer engineers: 
+- [Aviel Moati]
+- [Sraya Goldfisher]
+- [Yaron Samuel]
+
+Developed as part of a final project (1402) in `mechanical engineering and mechatronics` studies at [Ariel University](https://www.ariel.ac.il/wp/).  
+
 The project addresses the need to transport long pipes in various winding routes, in the areas of firefighting, agriculture, military, medicine, etc ..
 Its main advantage is in the modularity capability - the fit to the length of the desired pipe.
 
@@ -22,8 +28,6 @@ Its main advantage is in the modularity capability - the fit to the length of th
 ## Communicates via [RF communication].
 <img src="https://www.elecbee.com/image/cache/catalog/p/6/6/9/8/1/66981-1000x1000-product_popup.jpg" alt="drawing" width="200"/>
 
-## The system's developer engineers: 
-### [Yaron Samuel], [Aviel Moati], [Sraya Goldfisher]
 
 
 [RoboSnake]: https://www.youtube.com/watch?v=11BpMIZw06Y
