@@ -10,23 +10,23 @@ The project addresses the need to transport long pipes in various winding routes
 Its main advantage is in the modularity capability - the fit to the length of the desired pipe.
 
 
-<img src="https://i.pinimg.com/originals/bc/40/46/bc40469870964b4e822fe3d6f1b79422.jpg" alt="drawing" width="300"/>
+<img src="https://i.pinimg.com/originals/bc/40/46/bc40469870964b4e822fe3d6f1b79422.jpg" alt="RoboSnake" width="300"/>
 
 
 ## The management and control of the system using a [Teensy 3.2] controller
-<img src="https://m.media-amazon.com/images/I/51U0ukIyfsL._AC_SX466_PIbundle-2,TopRight,0,0_SH20_.jpg" alt="drawing" width="200"/>
+<img src="https://m.media-amazon.com/images/I/51U0ukIyfsL._AC_SX466_PIbundle-2,TopRight,0,0_SH20_.jpg" alt="teensy" width="200"/>
 
 ## The system is an autonomous system that travels using 2 [DC motors],
-<img src="https://dfimg.dfrobot.com/store/data/FIT0493/45%E5%BA%A6900x600.jpg?imageView2/1/w/564/h/376" alt="drawing" width="200"/>
+<img src="https://dfimg.dfrobot.com/store/data/FIT0493/45%E5%BA%A6900x600.jpg?imageView2/1/w/564/h/376" alt="motor" width="200"/>
 
 ## Navigates via an [IMU sensor],
-<img src="https://images.squarespace-cdn.com/content/v1/59b037304c0dbfb092fbe894/1609290232445-L9LK9RLB0VI4UZSDEGPJ/mpu9250_handheld.JPG?format=2500w" alt="drawing" width="200"/>
+<img src="https://images.squarespace-cdn.com/content/v1/59b037304c0dbfb092fbe894/1609290232445-L9LK9RLB0VI4UZSDEGPJ/mpu9250_handheld.JPG?format=2500w" alt="IMU moudle" width="200"/>
 
 ## Detects obstacles using a [LIDAR sensor], 
-<img src="https://www.st.com/bin/ecommerce/api/image.PF263309.en.feature-description-include-personalized-no-cpn-medium.jpg" alt="drawing" width="200"/>
+<img src="https://www.st.com/bin/ecommerce/api/image.PF263309.en.feature-description-include-personalized-no-cpn-medium.jpg" alt="LIDER chip" width="200"/>
 
 ## Communicates via [RF communication].
-<img src="https://www.elecbee.com/image/cache/catalog/p/6/6/9/8/1/66981-1000x1000-product_popup.jpg" alt="drawing" width="200"/>
+<img src="https://www.flyrobo.in/image/cache/catalog/315mhz-rf-transmitter-receiver-module-wireless-link-kit-for-arduino/315mhz-rf-transmitter-receiver-module-wireless-link-kit-for-arduino1-1024x1024.jpeg" alt="RF moudle" width="200"/>
 
 
 
